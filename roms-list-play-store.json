@@ -1,0 +1,21 @@
+[
+  {
+    "rom_name": "KolibriOS",
+    "rom_icon": "https://avatars.githubusercontent.com/u/19728236?s=280&v=4",
+    "rom_url": "https://anbui.ovh/get/vec/community/linux/kolibrios.html",
+    "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/MS-DOS.cvbi",
+    "rom_path": "KolibriOS.cvbi",
+    "rom_avail": true,
+    "rom_size": "Lightweight operating system",
+    "rom_arch": "X86_64",
+    "rom_kernel": "linux",
+    "rom_extra": "",
+    "final_rom_file_name": "",
+    "desc": "From Nomis_official and reup by @tokaevUser on Telegram.\n\nKolibriOS is a tiny yet incredibly powerful and fast operating system. This power requires only a few megabyte disk space and 8MB of RAM to run. KolibriOS features a rich set of applications that include word processor, image viewer, graphical editor, web browser and well over 30 exciting games. Full FAT12/16/32 support is implemented, as well as read-only support for NTFS, exFAT, ISO9660 and Ext2/3/4. Drivers are written for popular sound, network and graphics cards.",
+    "file_size": "100 MB",
+    "creator": "Nomis_official & tokaevUser",
+    "verified": true,
+    "vecid": "kolibriosqcow",
+    "id": ""
+  }
+]
