@@ -1,7 +1,7 @@
 [
     {
     "rom_name": "OpenWRT 24.10",
-    "rom_icon": "https://github.com/openwrt/openwrt/raw/main/include/logo.png",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/openwrt.png",
     "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/OpenWRT-24.10.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/OpenWRT-24.10.cvbi",
     "rom_path": "OpenWRT-24.10.cvbi",
