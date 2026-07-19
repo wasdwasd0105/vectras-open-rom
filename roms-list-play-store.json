@@ -131,5 +131,24 @@
     "verified": true,
     "vecid": "debiancvbi",
     "id": ""
+  },
+  {
+    "rom_name": "Tiny Core Linux",
+    "rom_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw2CcpHNKIioANF5MV4H-Zw2H3S7hPDMaqeA&s",
+    "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/Tiny.Core.Linux.cvbi",
+    "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/Tiny.Core.Linux.cvbi",
+    "rom_path": "Tiny.Core.Linux.cvbi",
+    "rom_avail": true,
+    "rom_size": "Lightweight operating system",
+    "rom_arch": "X86_64",
+    "rom_kernel": "linux",
+    "rom_extra": "",
+    "final_rom_file_name": "",
+    "desc":"\u003cb\u003eTiny Core Linux\u003c/b\u003e is the recommended standard version for users who want a fast, minimal graphical user interface. It builds upon the base Core system by adding X/GUI extensions, providing a dynamic FLTK/FLWM desktop environment right out of the box.\u003cbr\u003e\u003cbr\u003e\n\u003cb\u003eKey Features:\u003c/b\u003e\u003cbr\u003e\n• Minimalist FLTK/FLWM Graphical Desktop\u003cbr\u003e\n• Incredibly fast boot times and ultra-low RAM usage\u003cbr\u003e\n• Ideal for wired network connections to download additional extensions\u003cbr\u003e\u003cbr\u003e\n\u003cb\u003eRepository \u0026 Documentation:\u003c/b\u003e\u003cbr\u003e\n\u003ca href\u003d\"http://tinycorelinux.net/\"\u003eOfficial Tiny Core Linux Website\u003c/a\u003e\n",
+    "file_size": "50 MB",
+    "creator": "Vectras Team",
+    "verified": true,
+    "vecid": "tclcvbi",
+    "id": ""
   }
 ]
