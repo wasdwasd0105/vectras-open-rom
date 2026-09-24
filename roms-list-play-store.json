@@ -1,7 +1,7 @@
 [
   {
     "rom_name": "OpenWRT 24.10",
-    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/openwrt.png",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/openwrt.jpg",
     "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/OpenWRT-24.10.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/OpenWRT-24.10.cvbi",
     "rom_path": "OpenWRT-24.10.cvbi",
@@ -21,7 +21,7 @@
   },
   {
     "rom_name": "Alpine Linux",
-    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/alpine-linux.png",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/alpine-linux.jpg",
     "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/Alpine-Linux.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/Alpine-Linux.cvbi",
     "rom_path": "Alpine-Linux.cvbi",
@@ -41,8 +41,8 @@
   },
   {
     "rom_name": "KolibriOS",
-    "rom_icon": "https://avatars.githubusercontent.com/u/19728236?s=280&v=4",
-    "rom_url": "https://anbui.ovh/get/vec/community/linux/kolibrios.html",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/alpine-linux.jpg",
+    "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/KolibriOS.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/KolibriOS.cvbi",
     "rom_path": "KolibriOS.cvbi",
     "rom_avail": true,
@@ -61,8 +61,8 @@
   },
   {
     "rom_name": "ReactOS",
-    "rom_icon": "https://www.linuxinsider.com/wp-content/uploads/sites/2/2021/05/2016-react-os-1.jpg",
-    "rom_url": "https://anbui.ovh/get/vec/community/linux/reactos.html",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/react-os.jpg",
+    "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/ReactOS.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/ReactOS.cvbi",
     "rom_path": "ReactOS.cvbi",
     "rom_avail": true,
@@ -81,8 +81,8 @@
   },
   {
     "rom_name": "MS-DOS",
-    "rom_icon": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Msdos-icon.png",
-    "rom_url": "https://www.mediafire.com/file/yvgg5ku4o6fnzkf/MS-DOS.cvbi/file",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/ms-dos.jpg",
+    "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/MS-DOS.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/MS-DOS.cvbi",
     "rom_path": "MS-DOS.cvbi",
     "rom_avail": true,
@@ -101,8 +101,8 @@
   },
   {
     "rom_name": "OS/2",
-    "rom_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBiMkh0JObb3TtXY5Mat_qaGuwM6GQzuthcQ&s",
-    "rom_url": "https://anbui.ovh/get/vec/community/other/os2.html",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/os-2.jpg",
+    "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/os4.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/os4.cvbi",
     "rom_path": "os4.cvbi",
     "rom_avail": true,
@@ -121,8 +121,8 @@
   },
   {
     "rom_name": "Debian",
-    "rom_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw2CcpHNKIioANF5MV4H-Zw2H3S7hPDMaqeA&s",
-    "rom_url": "https://anbui.ovh/get/vec/community/linux/debian.html",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/debian.jpg",
+    "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/debian.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/debian.cvbi",
     "rom_path": "debian.cvbi",
     "rom_avail": true,
@@ -141,7 +141,7 @@
   },
   {
     "rom_name": "Tiny Core Linux",
-    "rom_icon": "https://linuxfreedom.com/images/TinycoreLogo.png",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/tiny-core.jpg",
     "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/Tiny.Core.Linux.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/Tiny.Core.Linux.cvbi",
     "rom_path": "Tiny.Core.Linux.cvbi",
@@ -161,7 +161,7 @@
   },
   {
     "rom_name": "Core Linux",
-    "rom_icon": "https://linuxfreedom.com/images/TinycoreLogo.png",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/tiny-core.jpg",
     "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/Core.Linux.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/Core.Linux.cvbi",
     "rom_path": "Core.Linux.cvbi",
@@ -181,7 +181,7 @@
   },
   {
     "rom_name": "Core Plus Linux",
-    "rom_icon": "https://linuxfreedom.com/images/TinycoreLogo.png",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/tiny-core.jpg",
     "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/CorePlus.Linux.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/CorePlus.Linux.cvbi",
     "rom_path": "CorePlus.Linux.cvbi",
@@ -201,7 +201,7 @@
   },
   {
     "rom_name": "SliTaz OS",
-    "rom_icon": "https://www.slitaz.org/images/artwork/slitaz-button-red.png",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/slitaz.jpg",
     "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/SliTaz.OS.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/SliTaz.OS.cvbi",
     "rom_path": "SliTaz.OS.cvbi",
@@ -221,7 +221,7 @@
   },
   {
     "rom_name": "Damn Small Linux",
-    "rom_icon": "https://reserve.freesvg.org/img/1634872349damn_small_linux.png",
+    "rom_icon": "https://raw.githubusercontent.com/wasdwasd0105/vectras-open-rom/refs/heads/main/rom-png/damn-small-linux.jpg",
     "rom_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/dsl.cvbi",
     "rom_download_url": "https://github.com/wasdwasd0105/vectras-open-rom/releases/download/v1.0.0/dsl.cvbi",
     "rom_path": "dsl.cvbi",
